@@ -1,2 +1,2 @@
-# Veilings
-A 1.12.2 Minecraft Mod about building and caring for an army of spirit imps.
+# Firework Table
+A Minecraft Mod adding a block to simplify crafting firework stars with a GUI. 
