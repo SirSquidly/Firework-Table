@@ -1,13 +1,14 @@
 {
   "type": "forge:ore_shaped",
   "pattern": [
-    "gg",
-    "pp",
-    "pp"
+    "gi ",
+    "pp ",
+    "pp "
   ],
   "key": {
     "g": { "item": "minecraft:gunpowder" },
-    "p": { "type": "forge:ore_dict", "ore": "plankWood" }
+    "p": { "type": "forge:ore_dict", "ore": "plankWood" },
+	"i": { "item": "minecraft:iron_ingot" }
   },
   "result": {
     "item": "firework_table:firework_table"
