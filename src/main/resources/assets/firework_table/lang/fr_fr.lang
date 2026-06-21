@@ -1,0 +1,8 @@
+container.firework_table.firework_table=Colorants & personnalisations
+
+tile.firework_table.firework_table.name=Table de feux d'artifice
+
+config.firework_table.title=Configuration de la table de feux d'artifice
+config.firework_table.configVersion=Version de la configuration
+config.firework_table.block.firework_table.enableComplexityLimits=Activer les limites de complexité
+config.firework_table.block.firework_table.guiPreviewColorSorting=Activer le tri des couleurs dans l'aperçu
