@@ -1,0 +1,8 @@
+container.firework_table.firework_table=Окраска и настройка
+
+tile.firework_table.firework_table.name=Стол для фейерверков
+
+config.firework_table.title=Настройки стола для фейерверков
+config.firework_table.configVersion=Версия конфига
+config.firework_table.block.firework_table.enableComplexityLimits=Включить ограничения сложности
+config.firework_table.block.firework_table.guiPreviewColorSorting=Включить сортировку цветов в предпросмотре
